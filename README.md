@@ -1,0 +1,2 @@
+# practical_management_course_using_arithmetic_and_arithmetic
+本レポジトリーにて、論語と算盤をベースにした経営論に関する資料を共有します。講義動画を、YouTubeのにアップロードします。
